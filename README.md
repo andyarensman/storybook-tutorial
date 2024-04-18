@@ -93,3 +93,5 @@ If you encounter an issue with the template, we encourage you to open an issue i
 ## Helpful Links
 
 [https://www.digitalocean.com/community/tutorials/nodejs-npm-yarn-cheatsheet](https://www.digitalocean.com/community/tutorials/nodejs-npm-yarn-cheatsheet)
+
+[https://storybook.js.org/tutorials/intro-to-storybook/react/en/screen/](https://storybook.js.org/tutorials/intro-to-storybook/react/en/screen/)
